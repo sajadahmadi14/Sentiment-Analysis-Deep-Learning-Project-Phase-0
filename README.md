@@ -1,6 +1,6 @@
 # Sentiment-Analysis-Deep-Learning-Project-Phase-0
-Development of a data loader for MCTD dataset
-MCTD dataset analysis
+**Development of a data loader for MCTD dataset<br>
+MCTD dataset analysis**<br>
  In phase 0 of our multi-modal sentiment analysis deep learning project, we focused on developing a data loader that could handle the different types of input data required for our model. Our model takes in three types of input data: pictures, text, and voice recordings. Each type of data requires a different preprocessing approach, and thus, our data loader had to be designed accordingly.
 
 To develop the data loader, we studied the structure and format of each type of input data and designed a custom solution that could efficiently load them into memory for use by our deep learning model. This also involved analyzing the samples to ensure they were labeled correctly and were of good quality, free from any bias.
